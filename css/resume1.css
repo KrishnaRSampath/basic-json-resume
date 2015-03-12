@@ -1,0 +1,68 @@
+body{
+	background: #FDFBFB;
+	color: #757575;
+}
+
+a{
+	color: #B62020;
+}
+
+#resume-wrapper{
+
+}
+
+h2, h3, h4{
+	color: #CB2424;
+}
+
+#resume-header h2{
+	font-size: 3.5em;
+}
+
+#resume-portfolio{
+}
+
+#resume-skills div{
+	float: left;
+	margin: 2.5%;
+}
+
+#resume-skills div{
+
+}
+
+#resume-work-history{
+	clear: both;
+}
+
+#resume-work-history div{
+	margin: 2.5%;
+}
+
+.company, .role, .location{
+	float: left;
+	margin-right: 2.5%;
+}
+
+.position-start{
+	clear: both;
+}
+
+.company, .role, .location, .position-start, .position-end{
+	color: #CB2424;
+}
+
+.description{
+	clear: both;
+}
+
+#resume-education{
+}
+
+#resume-education div{
+	margin: 2.5%;
+}
+
+.institution, .degree, .org-start, .org-end{
+	color: #CB2424;
+}

@@ -1,0 +1,55 @@
+body{
+	font-family: "Arial", sans-serif;
+}
+
+#resume-wrapper{
+	padding: 2.5%;
+	float: left;
+}
+
+ul{
+	list-style-type: none;  /* Eliminate annoying bullets */
+}
+
+#resume-header{
+	margin: 2.5% 0% 2.5% 0%;
+}
+
+#resume-portfolio{
+	margin: 2.5% 0% 2.5% 0%;
+}
+
+#resume-skills{
+	margin: 2.5% 0% 2.5% 0%;
+}
+
+#resume-skills div{
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+}
+
+#resume-work-history{
+	margin: 2.5% 0% 2.5% 0%;
+}
+
+#resume-work-history div{
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+}
+
+.company, .role, .location, .position-start, .position-end{
+	font-weight: bold;
+}
+
+#resume-education{
+	margin: 2.5% 0% 2.5% 0%;
+}
+
+#resume-education div{
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+}
+
+.institution, .degree, .org-start, .org-end{
+	font-weight: bold;
+}

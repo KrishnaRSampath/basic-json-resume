@@ -1,0 +1,95 @@
+[
+	{"name" : "Adrianne J. Lee"},
+	{"email" : "adrijlee@gmail.com"},
+	{"phone" : "650-996-8415"},
+	{"portfolio" : [
+		{"site" : "http://geekyhybrid.github.io"},
+		{"site" : "https://github.com/geekyhybrid"}
+	]},
+	{"skills" : [
+		{"frontend" : [
+			{"description" : "Front end web development"},
+			{"instance" : "HTML"},
+			{"instance" : "CSS"},
+			{"instance" : "Javascript"},
+			{"instance" : "jQuery"},
+			{"instance" : "Bootstrap"}
+		]},
+		{"languages" : [
+			{"description" : "Core programming languages"},
+			{"instance" : "C#"},
+			{"instance" : ".NET"},
+			{"instance" : "Ruby"},
+			{"instance" : "Clojure"}
+		]},
+		{"databases" : [
+			{"description" : "Database technologies"},
+			{"instance" : "SQL"},
+			{"instance" : "Oracle"},
+			{"instance" : "Relational databases"}
+		]},
+		{"informatics" : [
+			{"description" : "Informatics technologies"},
+			{"instance" : "Python"},
+			{"instance" : "Pipeline Pilot"}
+		]},
+		{"business" : [
+			{"description" : "General business skills"},
+			{"instance" : "Written communication"},
+			{"instance" : "Project management"},
+			{"instance" : "Metrics reporting"},
+			{"instance" : "Relationship management"},
+			{"instance" : "Technology evaluation"}
+		]}
+	]},
+	{"work-history" : [
+		{"position" : [
+			{"company" : "Forma Therapeutics, Inc."},
+			{"role" : "Senior Research Associate"},
+			{"location" : "Branford, CT"},
+			{"position-start" : "March 2011"},
+			{"position-end" : "Present"},
+			{"description" : "Sole full-time staff member providing leadership and support for local site informatics and custom software needs for a multi-site pharmaceutical research organization. Responsible for conceptualizing, implementing, and managing technology projects supporting corporate research goals."}
+		]},
+		{"position" : [
+			{"company" : "Forma Therapeutics, Inc."},
+			{"role" : "Research Associate"},
+			{"location" : "Branford, CT"},
+			{"position-start" : "September 2009"},
+			{"position-end" : "March 2011"},
+			{"description" : "First hire for a multi-disciplinary group dedicated to curating, expanding, and managing the sample collection for a multi-site pharmaceutical research organization. Conceptualized, planned, designed, and implemented a suite of automated processes and services to support corporate research goals."}
+		]},
+		{"position" : [
+			{"company" : "GraphLogic, Inc."},
+			{"role" : "Life Sciences Applications Specialist"},
+			{"location" : "Branford, CT"},
+			{"position-start" : "March 2008"},
+			{"position-end" : "September 2009"},
+			{"description" : "Early hire on the applications development team for a company providing a novel platform to enable easier lab information management system (LIMS) implementation. Active in all points in the application project management cycle including: requirements gathering, use-case determination, system design and implementation, testing, coordination with clients, system roll-out to clients."}
+		]},
+		{"position" : [
+			{"company" : "Cytokinetics, Inc."},
+			{"role" : "Research Associate III"},
+			{"location" : "South San Francisco, CA"},
+			{"position-start" : "April 2003"},
+			{"position-end" : "August 2007"},
+			{"description" : "Early hire for a cross-functional department providing research support services for a mid-size pharmaceutical research company. Departmental support services included: chemical sample archive curation and management, analytical chemistry QC services, biological sample collection curation and management, and histology services. Responsible for the design, implementation, execution, and management of solutions to improve the efficiency of early-stage pharmaceutical research."}
+		]}
+	]},
+	{"education" : [
+		{"organization" : [
+			{"institution" : "SkillCrush"},
+			{"degree" : "Web Designer Blueprint"},
+			{"org-start" : ""},
+			{"org-end" : "December 2014"},
+			{"description" : "3-month-long intensive training in front-end web design and development techniques, resulting in a final project portfolio."}
+		]},
+		{"organization" : [
+			{"institution" : "University of California, San Diego"},
+			{"degree" : "B.S. Chemistry"},
+			{"org-start" : ""},
+			{"org-end" : "2001"},
+			{"description" : "Competitive undergraduate chemistry curriculum"}
+		]}
+	]}
+]
